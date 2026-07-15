@@ -1,6 +1,6 @@
 # Cost-Sensitive Real-Time Cascading Router Engine
 
-An asymmetric, hardware-aware meta-routing engine designed to optimize dynamic skipping in multi-stage **"I Don't Know" (IDK) Classifier Cascades**. By feeding physical real-time execution costs directly into an asymmetric gradient-boosted decision boundary, this framework breaks the traditional Pareto trade-off—yielding a **10.45% latency reduction** alongside a simultaneous **accuracy increase to 97.25%** over standard linear baselines.
+An asymmetric, hardware-aware meta-routing engine designed to optimize dynamic skipping in multi-stage **"I Don't Know" (IDK) Classifier Cascades**. By feeding physical real-time execution costs directly into an asymmetric gradient-boosted decision boundary, this framework breaks the traditional Pareto trade-off—yielding a **10.45% latency reduction** alongside a simultaneous **accuracy increase to 97.50%** over standard linear baselines.
 
 ---
 
